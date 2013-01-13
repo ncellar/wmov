@@ -7,7 +7,7 @@
 # SOME CONTEXT
 #
 # Ubuntu 12.10 represents the different workspace as chuncks of a very large
-# virtual screen. Instead of using the regular "desktop concept" knwon by
+# virtual screen. Instead of using the standard "desktop" concept used by
 # wmctrl, Unity switches desktop by changing the coordinates of the viewport.
 #
 # If you have 4 workspace arranged in a square (which is the default, you need
